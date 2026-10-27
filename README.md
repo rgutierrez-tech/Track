@@ -171,7 +171,7 @@ Delete tracks, cars or sessions inside the app. To remove everything, delete the
 
 ### Contact
 
-Found a bug or have a question? Email **YOUR-SUPPORT-EMAIL@example.com** or [open an issue](https://github.com/YOUR-USERNAME/YOUR-REPO/issues).
+Found a bug or have a question? Email **track@prototypenow.com.mx**
 
 Please include your iPhone model, iOS version and, if it's about timing, a short description of the track and what happened.
 
