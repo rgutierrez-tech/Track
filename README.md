@@ -1,7 +1,7 @@
 # Track
 
 
-rack turns your iPhone into a GPS lap timer for track days. Draw the finish line once on a satellite map, then just drive: every lap is timed on its own, with a live delta to your best lap and a split for every sector.
+Track turns your iPhone into a GPS lap timer for track days. Draw the finish line once on a satellite map, then just drive: every lap is timed on its own, with a live delta to your best lap and a split for every sector.
 
 AUTOMATIC TIMING
 • The clock starts and stops when you cross the line. No buttons.
