@@ -1,6 +1,6 @@
 # Track Privacy Policy
 
-**Effective date:** October 26, 2026
+**Effective date:** October 29, 2026
 
 This policy explains what Track: Lap Timer ("Track", "the app") does with your information. Track is developed by Rafael Gutierrez ("I", "me").
 
@@ -9,7 +9,7 @@ This policy explains what Track: Lap Timer ("Track", "the app") does with your i
 - Track has no account, no sign-up and no server of its own.
 - Track does not include analytics, advertising or tracking of any kind, and does not sell or share your data.
 - Your tracks, cars, sessions, laps, GPS traces and telemetry are stored on your iPhone and, if you use iCloud, in your private iCloud. I can't see them.
-- To show the weather, your current location is sent to Apple Weather, operated by Apple. That's the only data the app sends off your device on its own, and it never reaches me.
+- The app doesn't send your data anywhere on its own. Nothing reaches me.
 
 ## Information stored on your device
 
@@ -17,7 +17,7 @@ Track stores the following on your iPhone:
 
 - **Tracks** you create or import: name, location, finish and sector lines, and the outline of the circuit.
 - **Cars** in your garage: name, photo, color and setup notes such as tire pressures, brake pads, weight and power.
-- **Sessions and laps**: lap and sector times, GPS positions, speed, accelerations, altitude, weather and track conditions, and heart rate if you use an Apple Watch.
+- **Sessions and laps**: lap and sector times, GPS positions, speed, accelerations, altitude, the track conditions you enter, and heart rate if you use an Apple Watch.
 - **Settings and preferences**, including your choice of app icon, accent color and video signature.
 
 During a session, your Apple Watch receives the live lap data from your iPhone and sends back your heart rate.
@@ -27,8 +27,6 @@ During a session, your Apple Watch receives the live lap data from your iPhone a
 If you're signed in to iCloud, Track syncs your tracks, cars and sessions through **your private iCloud database** (CloudKit), so they're available on your other devices and survive reinstalling the app. This data is stored by Apple under your Apple Account and is not accessible to me. Apple's handling of iCloud data is described in the [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ## Information that leaves your device
-
-**Weather.** When you set up or start a session, Track asks **Apple Weather** (WeatherKit), operated by Apple, for the weather at your current location. The request is handled by Apple under the [Apple Privacy Policy](https://www.apple.com/legal/privacy/); I don't receive it. Track uses no other weather service. The weather is used only to show conditions in the app and to save them with your session.
 
 **Maps.** Track displays maps and searches for places with Apple Maps. Map requests are handled by Apple under the [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
 
@@ -44,7 +42,7 @@ Track asks for these permissions, and you can change any of them at any time in 
 
 | Permission | Why |
 |---|---|
-| Location | To time laps, recognize the circuit you're at and get the weather. While a session is running, Track keeps using location in the background so timing continues with the screen off. |
+| Location | To time laps and recognize the circuit you're at, and to tell whether the iPhone is moving for the passenger lock. While a session is running, Track keeps using location in the background so timing continues with the screen off. |
 | Motion & Fitness | To measure g-forces, braking and acceleration. |
 | Camera and Microphone | To record videos of your laps with the telemetry overlay. Only when you choose to record. The microphone is not used while CarPlay is connected. |
 | Photos (add only) | To save your videos to your photo library. Track can't see your existing photos. |
@@ -57,6 +55,16 @@ Heart rate read from Health is used only to show it during the session and to st
 ## Videos
 
 Videos are saved to your photo library on your device. Track doesn't upload them anywhere.
+
+## Safety features
+
+Track includes features meant to keep you safe while you drive. They work entirely on your iPhone:
+
+- **Safety notice.** The first time you open Track, it shows a safety notice. Track only stores on your device that you've read it, so it isn't shown again.
+- **Passenger lock.** When no session is running, Track uses your current speed from location services to tell whether the iPhone is moving. If it is, the app covers the screen until you stop or confirm you're a passenger. This check happens on your device; your speed is not stored or sent anywhere for this purpose.
+- **Free roam reminder.** Before every free roam run, Track reminds you that it's for closed courses only.
+
+Track is intended for responsible use in a motorsport environment — circuits, track days, karting and autocross — and never on public roads. Speed shown by Track is calculated from GPS and is for information only. Use Track at your own risk. See [Drive responsibly](./#drive-responsibly) for the full advisories.
 
 ## Children
 
