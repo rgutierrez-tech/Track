@@ -1,4 +1,4 @@
-# ç`Track: Lap Timer`
+# `Track: Lap Timer`
 
 **Lap timing, data logging and analysis for motorsport — track days, karting and autocross — on iPhone, Apple Watch and CarPlay.**
 
